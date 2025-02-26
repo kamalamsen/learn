@@ -1,6 +1,9 @@
-streamlit
-PyPDF2
-transformers
-torch
-datetime
-json
+streamlit>=1.28
+pymupdf>=1.23
+transformers>=4.34
+sentence-transformers>=2.2
+torch>=2.1
+numpy>=1.24
+litellm>=0.1
+weaviate-client>=3.22
+plotly>=5.15
